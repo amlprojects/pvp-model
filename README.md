@@ -1,2 +1,2 @@
-# pvp-model-server
-PyTorch Model Server
+# pvp-model
+The neural network powering the PvP Agent.
